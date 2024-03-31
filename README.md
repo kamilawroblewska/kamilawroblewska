@@ -17,13 +17,13 @@ Get in Touch
 
 I'm always open to collaboration, feedback, and connecting with fellow developers and enthusiasts. Feel free to reach out to me via Email or Linkedin, whether it's to discuss a project, share ideas, or just say hello.
 
-[Email](kamila.wroblewska15@gmail.com) 
-[LinkedIn](www.linkedin.com/in/kamila-wroblewska-bb61142a5) 
+[Email](kamila.wroblewska15@gmail.com)  
+[LinkedIn](www.linkedin.com/in/kamila-wroblewska-bb61142a5)  
 Let's Collaborate
 
 If you're interested in collaborating on a project, have a question about one of my repositories, or just want to chat about technology, don't hesitate to get in touch. Together, we can build something amazing.
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
-Best regards, 
+Best regards,  
 Kamila
